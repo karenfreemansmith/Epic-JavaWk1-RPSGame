@@ -26,4 +26,4 @@ Java, Gradle, junit
 ## Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 Copyright _Karen Freeman-Smith & Georgina Van Dort_ All Rights Reserved.
+Copyright (c) 2016 Copyright _Karen Freeman-Smith & Brian Dutz_ All Rights Reserved.
