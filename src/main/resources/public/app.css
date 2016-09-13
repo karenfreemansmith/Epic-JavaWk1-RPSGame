@@ -1,0 +1,11 @@
+body {
+  background: #f9f9f9;
+}
+img {
+  display: block;
+  margin: 5% auto;
+  width: 640px;
+}
+.jumbotron {
+  text-align: center;
+}
